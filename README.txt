@@ -9,7 +9,7 @@
 
 1. Clonar el repositorio (si aún no lo has hecho)
    ```
-   git clone [URL_DEL_REPOSITORIO]
+   git clone https://github.com/Johann078/Karate-Proyect.git
    cd [NOMBRE_DEL_PROYECTO]
    ```
 
